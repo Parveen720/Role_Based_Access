@@ -3,108 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\faculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\faculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\faculty\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\faculty\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\faculty\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\faculty\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\migrations\\20260529095141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\migrations\\20260529095141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\views\\auth\\login.de.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\views\\auth\\login.de.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\views\\home\\index.de.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\views\\home\\index.de.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\views\\home\\index.fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\views\\home\\index.fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\views\\home\\index.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\views\\home\\index.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\views\\auth\\login.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\views\\auth\\login.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\resources\\views\\auth\\login.fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\resources\\views\\auth\\login.fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\culturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\culturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\faculty\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\faculty\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\faculty\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\faculty\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\faculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\faculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\admin\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\admin\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|c:\\users\\parve\\source\\repos\\rolebasedaccess\\rolebasedaccess\\migrations\\20260529095141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AAA680-E57D-5D2F-66AE-8FF862783241}|RoleBasedAccess\\RoleBasedAccess.csproj|solutionrelative:rolebasedaccess\\migrations\\20260529095141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,120 +150,356 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Faculties.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:43:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T10:38:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Program.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:51:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T10:35:40.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:30:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Students.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Students.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Students.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Admin\\Students.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:42:47.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedResource.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\SharedResource.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\SharedResource.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\SharedResource.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\SharedResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:22:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.en.resx",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Home\\Index.en.resx",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\Views\\Home\\Index.en.resx",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Home\\Index.en.resx",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\Views\\Home\\Index.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T05:54:44.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.fr.resx",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Home\\Index.fr.resx",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\Views\\Home\\Index.fr.resx",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Home\\Index.fr.resx",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\Views\\Home\\Index.fr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T05:54:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.de.resx",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Auth\\Login.de.resx",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\Views\\Auth\\Login.de.resx",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Auth\\Login.de.resx",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\Views\\Auth\\Login.de.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T05:29:12.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.de.resx",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Home\\Index.de.resx",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\Views\\Home\\Index.de.resx",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Home\\Index.de.resx",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\Views\\Home\\Index.de.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T05:55:11.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:44:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.fr.resx",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Auth\\Login.fr.resx",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\Views\\Auth\\Login.fr.resx",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Auth\\Login.fr.resx",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\Views\\Auth\\Login.fr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T05:28:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CultureController.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\CultureController.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\CultureController.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\CultureController.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Controllers\\CultureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:23:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.en.resx",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Auth\\Login.en.resx",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Resources\\Views\\Auth\\Login.en.resx",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Resources\\Views\\Auth\\Login.en.resx",
+              "RelativeToolTip": "RoleBasedAccess\\Resources\\Views\\Auth\\Login.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T05:28:41.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Student\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Profile.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Student\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:44:15.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:26:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:42:32.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:43:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T09:43:24.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:39:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:37:52.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:37:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:36:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:39:41.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\HomeController.cs",
               "RelativeToolTip": "RoleBasedAccess\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T10:48:16.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T10:38:53.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T10:35:43.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:30:29.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Faculties.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Admin\\Faculties.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:43:02.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:39:10.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowFwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:37:52.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "FacultyController.cs",
               "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\FacultyController.cs",
               "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\FacultyController.cs",
               "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\FacultyController.cs",
               "RelativeToolTip": "RoleBasedAccess\\Controllers\\FacultyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:39:26.718Z"
+              "WhenOpened": "2026-05-29T09:39:26.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T10:35:40.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Auth\\Register.cshtml",
@@ -239,127 +511,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Program.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Program.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Program.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwEEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T06:51:50.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Admin\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:42:32.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Student\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:44:00.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\appsettings.json",
               "RelativeDocumentMoniker": "RoleBasedAccess\\appsettings.json",
               "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\appsettings.json",
               "RelativeToolTip": "RoleBasedAccess\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-29T09:49:30.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Faculty\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:43:24.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Services\\JwtService.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Services\\JwtService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:27:59.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Students.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Faculty\\Students.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:43:40.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Profile.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Student\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Student\\Profile.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Student\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:44:15.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20260529095141_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:51:41.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Students.cshtml",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Students.cshtml",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Students.cshtml",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Students.cshtml",
-              "RelativeToolTip": "RoleBasedAccess\\Views\\Admin\\Students.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-29T09:42:47.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "Students.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Admin\\Students.cshtml.cs",
               "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Admin\\Students.cshtml.cs",
@@ -371,43 +535,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:39:41.486Z"
+              "WhenOpened": "2026-05-29T09:02:14.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:26:26.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:25:08.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "RoleBasedAccess\\Models\\DTOs\\RegisterDto.cs",
@@ -419,15 +559,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "RoleBasedAccess\\Models\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\Entities\\User.cs",
-              "RelativeToolTip": "RoleBasedAccess\\Models\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Models\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:02:14.886Z"
+              "WhenOpened": "2026-05-29T09:25:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RoleBasedAccess\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T10:35:43.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260529095141_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\parve\\source\\repos\\RoleBasedAccess\\RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
+              "RelativeToolTip": "RoleBasedAccess\\Migrations\\20260529095141_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:51:41.895Z"
             }
           ]
         }

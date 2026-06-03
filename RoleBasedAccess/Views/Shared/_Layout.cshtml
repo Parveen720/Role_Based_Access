@@ -13,21 +13,123 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">RoleBasedAccess</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+
+                <a class="navbar-brand"
+                   asp-area=""
+                   asp-controller="Home"
+                   asp-action="Index">
+                    RoleBasedAccess
+                </a>
+
+                <button class="navbar-toggler"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark"
+                               asp-controller="Home"
+                               asp-action="Index">
+                                Home
+                            </a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark"
+                               asp-controller="Home"
+                               asp-action="Privacy">
+                                Privacy
+                            </a>
                         </li>
                     </ul>
+
+                    @using System.Globalization
+
+<div class="me-3">
+
+                        <form asp-controller="Culture"
+                              asp-action="SetLanguage"
+                              method="get">
+
+                            <input type="hidden"
+                                   name="returnUrl"
+                                   value="@Context.Request.Path" />
+
+                            <select name="culture"
+                                    class="form-select form-select-sm"
+                                    style="width:180px;"
+                                    onchange="this.form.submit()">
+
+                                <option disabled selected>
+                                    Select Language
+                                </option>
+
+                                @if (CultureInfo.CurrentUICulture.Name.StartsWith("en"))
+                                {
+                                    <option value="en" selected>
+                                        English
+                                    </option>
+                                }
+                                else
+                                {
+                                    <option value="en">
+                                        English
+                                    </option>
+                                }
+
+                                @if (CultureInfo.CurrentUICulture.Name.StartsWith("fr"))
+                                {
+                                    <option value="fr" selected>
+                                        French
+                                    </option>
+                                }
+                                else
+                                {
+                                    <option value="fr">
+                                        French
+                                    </option>
+                                }
+
+                                @if (CultureInfo.CurrentUICulture.Name.StartsWith("de"))
+                                {
+                                    <option value="de" selected>
+                                        German
+                                    </option>
+                                }
+                                else
+                                {
+                                    <option value="de">
+                                        German
+                                    </option>
+                                }
+
+                            </select>
+
+                        </form>
+
+                    </div>
+
+                    @if (User.Identity!.IsAuthenticated)
+                    {
+                        <form asp-controller="Auth"
+                              asp-action="Logout"
+                              method="post">
+
+                            <button type="submit"
+                                    class="btn btn-danger">
+                                Logout
+                            </button>
+
+                        </form>
+                    }
+
                 </div>
+
             </div>
         </nav>
     </header>

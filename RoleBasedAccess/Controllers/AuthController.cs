@@ -1,22 +1,22 @@
 ﻿using BCrypt.Net;
 using Microsoft.AspNetCore.Mvc;
-using RoleBasedAccess.Data;
 using RoleBasedAccess.Models.DTOs;
 using RoleBasedAccess.Models.Entities;
+using RoleBasedAccess.Repositories;
 using RoleBasedAccess.Services;
 
 namespace RoleBasedAccess.Controllers;
 
 public class AuthController : Controller
 {
-    private readonly AppDbContext _context;
+    private readonly IUserRepository _userRepository;
     private readonly JwtService _jwtService;
 
     public AuthController(
-        AppDbContext context,
+        IUserRepository userRepository,
         JwtService jwtService)
     {
-        _context = context;
+        _userRepository = userRepository;
         _jwtService = jwtService;
     }
 
@@ -27,9 +27,9 @@ public class AuthController : Controller
     }
 
     [HttpPost]
-    public IActionResult Register(RegisterDto dto)
+    public async Task<IActionResult> Register(RegisterDto dto)
     {
-        if (_context.Users.Any(x => x.Email == dto.Email))
+        if (await _userRepository.EmailExistsAsync(dto.Email))
         {
             ViewBag.Error = "Email already exists";
             return View();
@@ -43,8 +43,7 @@ public class AuthController : Controller
             Role = dto.Role
         };
 
-        _context.Users.Add(user);
-        _context.SaveChanges();
+        await _userRepository.AddUserAsync(user);
 
         return RedirectToAction("Login");
     }
@@ -56,10 +55,9 @@ public class AuthController : Controller
     }
 
     [HttpPost]
-    public IActionResult Login(LoginDto dto)
+    public async Task<IActionResult> Login(LoginDto dto)
     {
-        var user = _context.Users
-            .FirstOrDefault(x => x.Email == dto.Email);
+        var user = await _userRepository.GetByEmailAsync(dto.Email);
 
         if (user == null)
         {
@@ -67,10 +65,9 @@ public class AuthController : Controller
             return View();
         }
 
-        bool isValid =
-            BCrypt.Net.BCrypt.Verify(
-                dto.Password,
-                user.PasswordHash);
+        bool isValid = BCrypt.Net.BCrypt.Verify(
+            dto.Password,
+            user.PasswordHash);
 
         if (!isValid)
         {
@@ -78,8 +75,7 @@ public class AuthController : Controller
             return View();
         }
 
-        string token =
-            _jwtService.GenerateToken(user);
+        string token = _jwtService.GenerateToken(user);
 
         Response.Cookies.Append(
             "jwt",
@@ -107,5 +103,12 @@ public class AuthController : Controller
         return RedirectToAction(
             "Dashboard",
             "Student");
+    }
+    [HttpPost]
+    public IActionResult Logout()
+    {
+        Response.Cookies.Delete("jwt");
+
+        return RedirectToAction("Login");
     }
 }

@@ -2,13 +2,27 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using RoleBasedAccess.Data;
-using RoleBasedAccess.Services;
 using RoleBasedAccess.Models.Entities;
+using RoleBasedAccess.Repositories;
+using RoleBasedAccess.Services;
 using System.Text;
+using Microsoft.AspNetCore.Localization;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddLocalization(options =>
+{
+    options.ResourcesPath = "Resources";
+});
+
+builder.Services
+    .AddControllersWithViews()
+    .AddViewLocalization()
+    .AddDataAnnotationsLocalization();
+
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -51,15 +65,30 @@ builder.Services.AddAuthentication(
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
+var supportedCultures = new[]
+{
+    new CultureInfo("en"),
+    new CultureInfo("fr"),
+    new CultureInfo("de")
+};
 
+app.UseRequestLocalization(
+    new RequestLocalizationOptions
+    {
+        DefaultRequestCulture =
+            new RequestCulture("en"),
+
+        SupportedCultures = supportedCultures,
+        SupportedUICultures = supportedCultures
+    });
 
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
 
-    if (!db.Users.Any(x => x.Role == "Admin"))
+    if (!await db.Users.AnyAsync(x => x.Role == "Admin"))
     {
-        db.Users.Add(new User
+        await db.Users.AddAsync(new User
         {
             Name = "Admin",
             Email = "admin@gmail.com",
@@ -67,7 +96,7 @@ using (var scope = app.Services.CreateScope())
             Role = "Admin"
         });
 
-        db.SaveChanges();
+        await db.SaveChangesAsync();
     }
 }
 
@@ -83,6 +112,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Auth}/{action=Login}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

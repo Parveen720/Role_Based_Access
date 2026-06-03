@@ -1,17 +1,17 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using RoleBasedAccess.Data;
+using RoleBasedAccess.Repositories;
 
 namespace RoleBasedAccess.Controllers
 {
     [Authorize(Roles = "Faculty")]
     public class FacultyController : Controller
     {
-        private readonly AppDbContext _context;
+        private readonly IUserRepository _userRepository;
 
-        public FacultyController(AppDbContext context)
+        public FacultyController(IUserRepository userRepository)
         {
-            _context = context;
+            _userRepository = userRepository;
         }
 
         public IActionResult Dashboard()
@@ -19,11 +19,9 @@ namespace RoleBasedAccess.Controllers
             return View();
         }
 
-        public IActionResult Students()
+        public async Task<IActionResult> Students()
         {
-            var students = _context.Users
-                .Where(x => x.Role == "Student")
-                .ToList();
+            var students = await _userRepository.GetStudentsAsync();
 
             return View(students);
         }

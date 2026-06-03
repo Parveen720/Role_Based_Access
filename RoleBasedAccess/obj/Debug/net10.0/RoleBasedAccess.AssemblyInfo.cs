@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBasedAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9758123f3c8a9f9c3330637cec92246044ab35e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBasedAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBasedAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,28 @@
-﻿@model List<RoleBasedAccess.Models.Entities.User>
+﻿@model IEnumerable<RoleBasedAccess.Models.Entities.User>
 
-<h1>Students</h1>
+<h2>Students</h2>
 
-<table border="1">
-    <tr>
-        <th>Id</th>
-        <th>Name</th>
-        <th>Email</th>
-    </tr>
+<table class="table table-bordered table-striped">
 
-    @foreach (var student in Model)
-    {
+    <thead>
         <tr>
-            <td>@student.Id</td>
-            <td>@student.Name</td>
-            <td>@student.Email</td>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
         </tr>
-    }
+    </thead>
+
+    <tbody>
+
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Email</td>
+                <td>@student.Role</td>
+            </tr>
+        }
+
+    </tbody>
+
 </table>

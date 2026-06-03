@@ -1,8 +1,10 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@{
     ViewData["Title"] = "Login";
 }
 
-<h2>Login</h2>
+<h2>@Localizer["Login"]</h2>
 
 @if (ViewBag.Error != null)
 {
@@ -18,7 +20,7 @@
       method="post">
 
     <div>
-        <label>Email</label>
+        <label>@Localizer["Email"]</label>
         <input type="email"
                name="Email"
                required />
@@ -27,7 +29,7 @@
     <br />
 
     <div>
-        <label>Password</label>
+        <label>@Localizer["Password"]</label>
         <input type="password"
                name="Password"
                required />
@@ -36,7 +38,7 @@
     <br />
 
     <button type="submit">
-        Login
+        @Localizer["Login"]
     </button>
 
 </form>
@@ -45,5 +47,5 @@
 
 <a asp-controller="Auth"
    asp-action="Register">
-    Create New Account
+    @Localizer["CreateAccount"]
 </a>
